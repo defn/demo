@@ -1,0 +1,2 @@
+devcontainers:
+	devcontainer open .
