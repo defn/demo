@@ -1,6 +1,5 @@
 {
   "image": "defn/dev",
   "exstensions": ["ms-python.python"],
-  "forwardPorts": [3333],
-  "remoteUser": "ubuntu"
+  "forwardPorts": [3333]
 }
