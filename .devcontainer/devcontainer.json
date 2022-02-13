@@ -4,6 +4,5 @@
   "remoteUser": "ubuntu",
   "mounts": [
     "source=${localEnv:HOME}/.password-store,target=/home/ubuntu/.password-store,type=bind,consistency=cached"
-  ],
-  "postStartCommand": "chmod 0700 /home/ubuntu/.gnupg"
+  ]
 }
