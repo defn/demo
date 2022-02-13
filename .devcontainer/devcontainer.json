@@ -1,5 +1,5 @@
 {
-  "image": "defn/dev",
+  "build": { "dockerfile": "Dockerfile" },
   "extensions": ["ms-python.python"],
   "remoteUser": "ubuntu",
   "mounts": [
