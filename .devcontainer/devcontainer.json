@@ -1,7 +1,6 @@
 {
   "image": "defn/dev",
-  "exstensions": ["ms-python.python"],
-  "forwardPorts": [3333],
+  "extensions": ["ms-python.python"],
   "remoteUser": "ubuntu",
   "mounts": [
     "source=${localEnv:HOME}/.password-store,target=/home/ubuntu/.password-store,type=bind,consistency=cached"
